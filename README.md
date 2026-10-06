@@ -1,14 +1,7 @@
-# Praktikum Basis Data - Modul 1
+Nama: Mahasiswa Basis Data NPM : 25430101 Kelas: D
 
-## Identitas Mahasiswa
-- **NIM**: 25430101
+IDENTITAS PROYEK
 
----
+Tema : Perpustakaan Nama Organisasi : Perpustakaan Cendekia Mandiri
 
-## Identitas Proyek (Milestone Proyek 1)
-- **Tema Proyek**: Sistem Informasi Perpustakaan
-- **Nama Basis Data**: `perpus_101`
-- **Nama Pengembang**: `dev_101`
-- **Nama Organisasi Fiktif**: Perpustakaan Cendekia Mandiri
-- **Deskripsi Lingkup Layanan**:
-  Perpustakaan Cendekia Mandiri melayani pengelolaan sirkulasi peminjaman dan pengembalian bahan pustaka, manajemen katalog buku, serta pencatatan keanggotaan mahasiswa secara digital untuk mempercepat administrasi perpustakaan kampus.
+Lingkup Layanan : Perpustakaan Cendekia Mandiri merupakan organisasi fiktif yang menyediakan layanan administrasi katalog buku, sirkulasi peminjaman dan pengembalian, serta pencatatan keanggotaan mahasiswa secara digital. Sistem basis data digunakan untuk mempermudah operasional pustaka dan memastikan rekam jejak inventaris tersimpan secara aman dan terstruktur.
